@@ -1,7 +1,7 @@
 <template>
   <q-layout view="lHh Lpr lFf">
     <q-page-container>
-      <q-toolbar class="bg-primary text-white shadow-2">
+      <q-toolbar class="bg-red text-white shadow-2">
       <q-btn flat round dense icon="menu" class="q-mr-sm" />
       <q-separator dark vertical inset />
 
